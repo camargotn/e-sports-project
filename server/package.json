@@ -1,4 +1,15 @@
 {
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsnd scr/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
   },
